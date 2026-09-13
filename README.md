@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2235-add-two-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
