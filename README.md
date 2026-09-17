@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1929-concatenation-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1108-defanging-an-ip-address) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
