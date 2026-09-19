@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
