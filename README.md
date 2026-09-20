@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2235-add-two-integers) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
