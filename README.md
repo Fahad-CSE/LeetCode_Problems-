@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1929-concatenation-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3925-concatenate-array-with-reverse](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1929-concatenation-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
