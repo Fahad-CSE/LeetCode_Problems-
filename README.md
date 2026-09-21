@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3280-convert-date-to-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1816-truncate-sentence) |
+| [3280-convert-date-to-binary](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3280-convert-date-to-binary) |
 ## Prefix Sum
 |  |
 | ------- |
