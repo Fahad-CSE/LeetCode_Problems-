@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1470-shuffle-the-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -61,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -74,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
