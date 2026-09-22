@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1816-truncate-sentence) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0367-valid-perfect-square) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
