@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
