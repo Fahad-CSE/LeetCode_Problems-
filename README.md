@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1816-truncate-sentence) |
