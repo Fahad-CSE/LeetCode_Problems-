@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0367-valid-perfect-square) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0412-fizz-buzz) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
