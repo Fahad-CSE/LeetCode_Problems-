@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0258-add-digits) |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
