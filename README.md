@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0709-to-lower-case) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
