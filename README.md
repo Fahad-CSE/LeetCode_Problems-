@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1816-truncate-sentence) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
