@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3945-digit-frequency-score](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
