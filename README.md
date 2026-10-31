@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2652-sum-multiples) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1768-merge-strings-alternately) |
+| [2396-strictly-palindromic-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
 | ------- |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
