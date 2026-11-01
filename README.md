@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3925-concatenate-array-with-reverse](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3280-convert-date-to-binary) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3658-gcd-of-odd-and-even-sums) |
