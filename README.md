@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Dynamic Programming
 |  |
@@ -227,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2396-strictly-palindromic-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
