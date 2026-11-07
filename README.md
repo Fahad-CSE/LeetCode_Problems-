@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3280-convert-date-to-binary) |
+| [3794-reverse-string-prefix](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3794-reverse-string-prefix) |
 ## Linked List
 |  |
 | ------- |
