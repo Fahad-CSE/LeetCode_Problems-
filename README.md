@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
