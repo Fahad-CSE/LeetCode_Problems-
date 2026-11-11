@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1816-truncate-sentence) |
