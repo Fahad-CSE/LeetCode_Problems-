@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3174-clear-digits](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3174-clear-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3280-convert-date-to-binary) |
 | [3794-reverse-string-prefix](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
