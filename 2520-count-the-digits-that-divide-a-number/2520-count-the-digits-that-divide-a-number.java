@@ -1,4 +1,4 @@
-/*class Solution {
+class Solution {
     public int countDigits(int num) {
         int temp = num;
         int count = 0;
@@ -12,8 +12,8 @@
         }
         return count++;
     }
-}*/
-class Solution {
+}
+/*class Solution {
     public int countDigits(int num) {
         String s = String.valueOf(num);
         int count = 0;
@@ -27,4 +27,4 @@ class Solution {
 
         return count;
     }
-}
+}*/
