@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Fahad-CSE/LeetCode_Problems-/tree/master/3232-find-if-digit-game-can-be-won) |
